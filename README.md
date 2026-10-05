@@ -1,6 +1,7 @@
 # Створення веб-сайтів (17:00)
 
 ## Модуль 4
+[Головна сторінка](https://nataliadovganlogika-prog.github.io/web-17-00-M4/main.html)
 
 ### Сайти учнів
 
